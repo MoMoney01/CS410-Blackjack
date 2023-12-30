@@ -1,0 +1,20 @@
+{
+    "phase": "turn",
+    "dealerHand": "faceDown, 7",
+    "playerBalance": [
+        "1000",
+        "1000",
+        "1000"
+    ],
+    "playerBets": [
+        "500",
+        "220",
+        "100"
+    ],
+    "playerHand": [
+        "ace, 7",
+        "jack, 3",
+        "ace, 10"
+    ],
+    "currentPlayer": "1"
+}
